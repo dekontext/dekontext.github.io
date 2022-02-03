@@ -1,0 +1,16 @@
+{
+  "name": "dekontext.github.io",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dekontext/dekontext.github.io.git"
+  },
+  "author": "Jacob Romano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dekontext/dekontext.github.io/issues"
+  }
+}
